@@ -1,0 +1,5 @@
+pymongo
+torch
+peft
+trl
+tqdm
