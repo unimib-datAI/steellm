@@ -1,0 +1,8 @@
+{
+    "accuracy": 0.9131455399061033,
+    "accuracy_only_label": 0.9530516431924883,
+    "total": 1278,
+    "skipped_prompts": 0,
+    "time": 1266.6169708607777,
+    "memory": 14237.373046875
+}
